@@ -61,7 +61,7 @@ CERTUS CLASE 2
             <td>003</td>
             <td>Refrigerador</td>
             <td>1000 soles</td>
-            <td><img src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1647175-847__1&recipeName=350" alt="Refrigerador"></td>
+            <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRQKrveYOe9Ws2AkDUkoop1GCXBIOWBOkhKz_wSq5OAQ&s" alt="Refrigerador"></td>
         </tr>
     </table>
 </body>
