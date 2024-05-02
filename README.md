@@ -50,17 +50,19 @@ CERTUS CLASE 2
 <img src="https://media.sauber-home.com/catalog/product/cache/aba824d655bb20fcf2253dd751221cdd/H/O/HORNO_MICROONDAS_INTEGRABLE_SAUBER_HMS01W-1_1.jpeg" alt="HORNO_MICROONDAS_INTEGRABLE_SAUBER_HMS01W-1_1" srcset="">
 </table>
 
-<table>
-    <tr>
-        <th>Codigo</th>
-        <th>Producto</th>
-        <th>precio</th>
-    </tr>
-    <tr>
-        <td>003</td>
-        <td>Refrigerador</td>
-        <td>1000 soles</td>
-<img src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1647175-847__1&recipeName=350" alt="">  
-</table>
+ <table>
+        <tr>
+            <th>Codigo</th>
+            <th>Producto</th>
+            <th>Precio</th>
+            <th>Imagen</th>
+        </tr>
+        <tr>
+            <td>003</td>
+            <td>Refrigerador</td>
+            <td>1000 soles</td>
+            <td><img src="https://images.costco-static.com/ImageDelivery/imageService?profileId=12026540&imageId=1647175-847__1&recipeName=350" alt="Refrigerador"></td>
+        </tr>
+    </table>
 </body>
 </html>
