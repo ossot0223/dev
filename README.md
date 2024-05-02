@@ -10,12 +10,10 @@ CERTUS CLASE 2
 <H1>LABORATORIO 3</H1>
 <P>OSCAR SOTELO</P>
 <HR>
-<P>GIT</P></HR>
-<a href="www.certus.com.pe">Certus</a>
+<P></P></HR>
+<a ""></a>
 
-<img src="./Imagenesweb/descarga.png" alt="Certus"width>
-
-<button>aceptar</button>
+<button></button>
 <br>
 
 
