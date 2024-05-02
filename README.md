@@ -45,10 +45,12 @@ CERTUS CLASE 2
     <td>002</td>
     <td>Microhondas</td>
     <td>650 soles</td>
-<img src="https://media.sauber-home.com/catalog/product/cache/aba824d655bb20fcf2253dd751221cdd/H/O/HORNO_MICROONDAS_INTEGRABLE_SAUBER_HMS01W-1_1.jpeg" alt="HORNO_MICROONDAS_INTEGRABLE_SAUBER_HMS01W-1_1" srcset="">
+<img src="https://www.lg.com/content/dam/channel/wcms/pe/images/microondas/mh7032jas_bbkglpr_espr_pe_c/Basic-450.jpg" alt="HORNO_MICROONDAS_INTEGRABLE_SAUBER_HMS01W-1_1" srcset="">
 </table>
 
- <table>
+
+
+<table>
         <tr>
             <th>Codigo</th>
             <th>Producto</th>
@@ -59,7 +61,10 @@ CERTUS CLASE 2
             <td>003</td>
             <td>Refrigerador</td>
             <td>1000 soles</td>
-            <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRQKrveYOe9Ws2AkDUkoop1GCXBIOWBOkhKz_wSq5OAQ&s" alt="Refrigerador"></td>
+            <td>
+                <img src="https://cdn11.bigcommerce.com/s-dj46qhetxl/images/stencil/1280x1280/products/137849/386895/irdrotqaqdqdnbj7lqkq__78811.1692328643.jpg?c=1" alt="Refrigerador" srcset"">
+                
+            </td>
         </tr>
     </table>
 </body>
