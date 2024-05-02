@@ -63,8 +63,7 @@ CERTUS CLASE 2
             <td>1000 soles</td>
             <td>
                 <img src="https://cdn11.bigcommerce.com/s-dj46qhetxl/images/stencil/1280x1280/products/137849/386895/irdrotqaqdqdnbj7lqkq__78811.1692328643.jpg?c=1" alt="Refrigerador" srcset"">
-                
-            </td>
+                 </td>
         </tr>
     </table>
 </body>
