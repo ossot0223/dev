@@ -9,7 +9,9 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f8f8f8;
+            background-color: #f9f9f9;
+            color: #333;
+            line-height: 1.6;
         }
         .container {
             max-width: 800px;
@@ -20,13 +22,15 @@
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
         h1, h2 {
-            color: #333;
+            color: #007bff;
             text-align: center;
             margin-bottom: 20px;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
         }
         p {
             color: #666;
             text-align: center;
+            margin-bottom: 20px;
         }
         table {
             width: 100%;
@@ -34,19 +38,24 @@
             margin-top: 20px;
         }
         th, td {
-            padding: 10px;
+            padding: 12px;
             text-align: left;
             border-bottom: 1px solid #ddd;
         }
         th {
             background-color: #f2f2f2;
             color: #333;
+            font-weight: bold;
         }
         img {
-            max-width: 100px;
+            max-width: 80px;
             height: auto;
             display: block;
             margin: 0 auto;
+            transition: transform 0.3s ease;
+        }
+        img:hover {
+            transform: scale(1.1);
         }
         hr {
             border: none;
@@ -56,19 +65,22 @@
         }
         .button {
             display: block;
-            width: 100px;
-            margin: 0 auto;
-            padding: 10px;
+            width: 100%;
+            max-width: 200px;
+            margin: 20px auto;
+            padding: 12px 24px;
             text-align: center;
-            background-color: #4CAF50;
-            color: white;
+            background-color: #007bff;
+            color: #fff;
             border: none;
-            border-radius: 5px;
+            border-radius: 4px;
             cursor: pointer;
             text-decoration: none;
+            transition: background-color 0.3s ease;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
         }
         .button:hover {
-            background-color: #45a049;
+            background-color: #0056b3;
         }
     </style>
 </head>
@@ -105,6 +117,11 @@
                 <td><img src="https://cdn11.bigcommerce.com/s-dj46qhetxl/images/stencil/1280x1280/products/137849/386895/irdrotqaqdqdnbj7lqkq__78811.1692328643.jpg?c=1" alt="Refrigerador"></td>
             </tr>
         </table>
+        <a href="#" class="button">Ver más</a>
+    </div>
+</body>
+</html>
+
         <a href="#" class="button">Ver más</a>
     </div>
 </body>
