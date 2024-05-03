@@ -87,7 +87,7 @@
 <body>
     <div class="container">
         <h1>CERTUS CLASE 2</h1>
-        <h2>LABORATORIO 3</h2>
+        <h2>LABORATORIO 2</h2>
         <p>OSCAR SOTELO</p>
         <hr>
         <h1>OFERTAS</h1>
